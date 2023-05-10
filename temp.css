@@ -1,0 +1,26 @@
+body{
+    background-color:black ;
+    padding: 50px 100px;
+}
+h1{
+    text-align: center;
+    color:antiquewhite;
+}
+#container{
+    text-align: center;
+    background-color:lightslategrey;
+    padding: 30px;
+    width: 300px;
+    margin-left: 28%;
+    
+}
+.inp{
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+label{
+    font-size: 20px;
+}
